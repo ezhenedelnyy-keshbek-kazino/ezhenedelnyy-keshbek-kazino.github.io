@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: ezhenedelnyy-keshbek-kazino.github.io
+Sitemap: https://ezhenedelnyy-keshbek-kazino.github.io/sitemap.xml
